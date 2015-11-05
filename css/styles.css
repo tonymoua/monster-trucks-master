@@ -28,6 +28,10 @@ h1, h2{
     font-family: 'Raleway', sans-serif;
     border-style: solid;
     border-width: 5px;
+    color: white;
+    background: #000;
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
 
 h2{
@@ -42,4 +46,19 @@ img{
 }
 p{
     text-align: center;
+}
+
+.logo{
+    width: 12.5%;
+    float: right;
+    margin: 0 0 10px 10px;
+
+}
+
+ul{
+   height:0; 
+}
+
+a:link{
+    color: black;
 }
